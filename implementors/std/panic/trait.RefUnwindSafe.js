@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["logitech_led_sdk"] = [{"text":"impl RefUnwindSafe for Color","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Sdk","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Target","synthetic":true,"types":[]}];
+implementors["logitech_led_sdk_sys"] = [{"text":"impl RefUnwindSafe for LogiLed_KeyName","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for LogiLed_DeviceType","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

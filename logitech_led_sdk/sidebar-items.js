@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DeviceType",""],["KeyName",""],["Target","Color Targets"]],"struct":[["Color","RGB Color"],["Sdk","Entry to Api. This serves as proof of initalization."]]});
